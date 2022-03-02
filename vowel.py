@@ -1,0 +1,6 @@
+a = input("Enter the string")
+print(a.find("a"))
+print(a.find("e"))
+print(a.find("i"))
+print(a.find("o"))
+print(a.find("u"))
